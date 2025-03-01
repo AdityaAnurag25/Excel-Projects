@@ -1,2 +1,2 @@
 # Excel-Projects
-Includes various data analysis projects made on Microsoft Excel.
+This repository includes various data analysis projects made by me using Microsoft Excel
